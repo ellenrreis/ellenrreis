@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Ellen 👋
+Engenheira pela UNESP, com experiência em auditoria e consultoria para grandes empresas. 
+No dia a dia, trabalho com consolidação e análise de informações, construção de diagnósticos e relatórios e apoio à tomada de decisão.
 
-<!--
-**ellenrreis/ellenrreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔎 O que eu faço
+- Análise e consolidação de grandes volumes de informação para relatórios anuais
+- Diagnósticos e apoio à implementação de procedimentos
+- Liderança de treinamentos, gestão de terceiros e coordenação de campanhas entre unidades
 
-Here are some ideas to get you started:
+## 🛠️ Ferramentas
+- **Excel** (tabela dinâmica, PROCV)
+- **SQL / PostgreSQL** (uso em projetos de portfólio)
+- **Git / GitHub**
+- **Inglês** nível C1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- [olist-analise-entregas](https://github.com/ellenrreis/olist-analise-entregas):
+  análise em SQL dos drivers do frete e da experiência do cliente no e-commerce
+
+## 🌱 Explorando agora
+SQL, análise exploratória de dados e storytelling com dados.
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/ellenrreis)
